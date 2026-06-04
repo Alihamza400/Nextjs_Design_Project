@@ -1,0 +1,111 @@
+{
+  
+"courses":
+ [
+    {
+      "courseId": "crs-001",
+      "title": "Next-Gen Smart Contract Engineering & Security Protocols",
+      "slug": "next-gen-smart-contract-engineering-security",
+      "difficultyLevel": "Advanced",
+      "category": "Blockchain Engineering",
+      "isFeatured": true,
+      "enrollmentCount": 8320,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/web3-solidity-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/web3-solidity-hero.jpg"
+      }
+    },
+    {
+      "courseId": "crs-002",
+      "title": "Production-Grade RAG Systems with Vector Databases & FastAPI",
+      "slug": "production-grade-rag-vector-db-fastapi",
+      "difficultyLevel": "Intermediate",
+      "category": "Artificial Intelligence",
+      "isFeatured": true,
+      "enrollmentCount": 14500,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/ai-rag-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/ai-rag-hero.jpg"
+      }
+    },
+    {
+      "courseId": "crs-003",
+      "title": "Advanced Cloud Architecture & Multi-Region Microservices",
+      "slug": "advanced-cloud-architecture-microservices",
+      "difficultyLevel": "Advanced",
+      "category": "Cloud Computing",
+      "isFeatured": true,
+      "enrollmentCount": 12450,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/cloud-arch-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/cloud-arch-hero.jpg"
+      }
+    },
+    {
+      "courseId": "crs-004",
+      "title": "Enterprise Data Engineering with Apache Kafka & Spark",
+      "slug": "enterprise-data-engineering-kafka-spark",
+      "difficultyLevel": "Intermediate",
+      "category": "Data Science",
+      "isFeatured": true,
+      "enrollmentCount": 5120,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/data-eng-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/data-eng-hero.jpg"
+      }
+    },
+    {
+      "courseId": "crs-005",
+      "title": "Full-Stack Web Development with Next.js & TypeScript",
+      "slug": "full-stack-nextjs-typescript",
+      "difficultyLevel": "Beginner",
+      "category": "Web Development",
+      "isFeatured": true,
+      "enrollmentCount": 22100,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/nextjs-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/nextjs-hero.jpg"
+      }
+    },
+    {
+      "courseId": "crs-006",
+      "title": "Automated DevSecOps Pipelines with GitHub Actions & AWS",
+      "slug": "devsecops-pipelines-github-actions-aws",
+      "difficultyLevel": "Advanced",
+      "category": "DevOps & Security",
+      "isFeatured": true,
+      "enrollmentCount": 9430,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/devsecops-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/devsecops-hero.jpg"
+      }
+    },
+    {
+      "courseId": "crs-007",
+      "title": "UI/UX Design Systems for Enterprise Applications",
+      "slug": "ui-ux-design-systems-enterprise",
+      "difficultyLevel": "Intermediate",
+      "category": "Design & Frontend",
+      "isFeatured": true,
+      "enrollmentCount": 6780,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/design-systems-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/design-systems-hero.jpg"
+      }
+    },
+    {
+      "courseId": "crs-008",
+      "title": "Deep Learning Models & Transformers from Scratch",
+      "slug": "deep-learning-models-transformers-scratch",
+      "difficultyLevel": "Expert",
+      "category": "Machine Learning",
+      "isFeatured": true,
+      "enrollmentCount": 4310,
+      "media": {
+        "thumbnailUrl": "https://images.enterprise-learning.cdn/courses/transformers-thumb.jpg",
+        "coverImageUrl": "https://images.enterprise-learning.cdn/courses/transformers-hero.jpg"
+      }
+    }
+  ]
+}
+ 
